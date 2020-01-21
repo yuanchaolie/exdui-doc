@@ -4,7 +4,7 @@
 ---
 
 ---
-## <a href="./window.md">**窗口函数**</a> ##
+## <a href="./window/index.md">**窗口函数**</a> ##
 ---
 
 ---
